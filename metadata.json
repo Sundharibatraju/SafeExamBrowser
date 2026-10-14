@@ -1,0 +1,10 @@
+{
+  "name": "Technical Assessment & Coding Proctor",
+  "description": "Enterprise technical assessment platform with anti-cheating proctoring, dynamic aptitude generator, and sandboxed coding compiler.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
